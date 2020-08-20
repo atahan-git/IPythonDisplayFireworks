@@ -1,0 +1,11 @@
+README.md
+setup.py
+IPythonDisplayFireworks/__init__.py
+IPythonDisplayFireworks.egg-info/PKG-INFO
+IPythonDisplayFireworks.egg-info/SOURCES.txt
+IPythonDisplayFireworks.egg-info/dependency_links.txt
+IPythonDisplayFireworks.egg-info/requires.txt
+IPythonDisplayFireworks.egg-info/top_level.txt
+IPythonDisplayFireworks/jspart/Fireworks.js
+IPythonDisplayFireworks/jspart/TweenMax.min.js
+IPythonDisplayFireworks/jspart/paper-full.min.js

@@ -1,6 +1,7 @@
 from IPython.display import HTML
 from IPython.display import display
 import os.path
+import random
 
 # This is used to import the required js files
 def ReadFile (filename):
@@ -18,7 +19,7 @@ def Fireworks ():
     # Put everything together and send it in one go
     htmlString = "";
     ## Canvas creation
-    htmlString += ('<script>%s</script>'%(ReadFile(paper-full.min.js))) + "\n"
+    htmlString += ('<script>%s</script>'%(ReadFile('paper-full.min.js'))) + "\n"
     htmlString += ('<script>%s</script>'% (ReadFile('TweenMax.min.js'))) + "\n"
     htmlString += ('<canvas id="canv' + str(randHash)+ '" position=absolute style="position: fixed; top: 0; left: 0; width:100%; height:100%; pointer-events: none;"></canvas>') + "\n"
     ##^^ make a canvas that occupies the whole screen and is click-through
