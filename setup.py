@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="IPythonDisplayFireworks", # Replace with your own username
-    version="0.0.2",
+    version="0.0.4",
     author="Atahan Ozturk",
     author_email="atahan012000@gmail.com",
     description="Fireworks using IPython Display",
