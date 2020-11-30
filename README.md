@@ -18,6 +18,6 @@ from IPythonDisplayFireworks import Fireworks
 Fireworks()
 ```
 
-![Example Turtle](Example.png)
+![Example Image](Example.png)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/atahan-git/IPythonDisplayFireworks/master)
